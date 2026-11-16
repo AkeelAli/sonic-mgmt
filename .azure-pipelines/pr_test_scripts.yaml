@@ -776,6 +776,7 @@ t0-vpp:
   - arp/test_arp_update.py
   - arp/test_neighbor_mac_aging.py
   - arp/test_neighbor_mac_noptf.py
+  - arp/test_stress_arp.py
   - arp/test_tagged_arp.py
   - arp/test_unknown_mac.py
   - autorestart/test_container_autorestart.py
